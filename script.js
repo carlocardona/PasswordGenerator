@@ -51,6 +51,7 @@ function generatePassword() {
     } while (counter <= userInput);
 
     let arrayToSring = generatedPasswordHolder.toString();
+    //using console I can see that the characters are being added to the array successfully. I'm attempting to convert the array to a string with this toString method, however it is adding extra characters at the end. 
 
     return arrayToSring;
 

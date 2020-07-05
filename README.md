@@ -1,4 +1,4 @@
-# PasswordGeneratorW3v2
+# PasswordGenerator
 
 After clicking the "Generate Password" button, user is given 4 prompts. 
 
